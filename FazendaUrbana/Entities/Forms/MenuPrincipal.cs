@@ -80,5 +80,27 @@ namespace FazendaUrbana.Entities.Forms
         {
             this.Close();
         }
+
+        private void fornecedoresToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cadastrarFornecedoresToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CadastrarFornecedor cadastrar = new CadastrarFornecedor();
+            cadastrar.ShowDialog();
+
+        }
+
+        private void vendasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void adicionarDadosProduçãoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
