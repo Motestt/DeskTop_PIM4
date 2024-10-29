@@ -1,12 +1,79 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Repositorios\\FazendaUrbana\\DeskTop_PIM4\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repositorios\\FazendaUrbana\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\CadastrarFornecedor.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FazendaUrbana\\Entities\\Forms\\CadastrarFornecedor.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repositorios\\FazendaUrbana\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repositorios\\FazendaUrbana\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedHeight": 281,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastrarFornecedor.Designer.cs",
+              "DocumentMoniker": "C:\\Repositorios\\FazendaUrbana\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\CadastrarFornecedor.Designer.cs",
+              "RelativeDocumentMoniker": "FazendaUrbana\\Entities\\Forms\\CadastrarFornecedor.Designer.cs",
+              "ToolTip": "C:\\Repositorios\\FazendaUrbana\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\CadastrarFornecedor.Designer.cs",
+              "RelativeToolTip": "FazendaUrbana\\Entities\\Forms\\CadastrarFornecedor.Designer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABgBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:38:35.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdicionarDadosProdu\u00E7\u00E3o.Designer.cs",
+              "DocumentMoniker": "C:\\Repositorios\\FazendaUrbana\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.Designer.cs",
+              "RelativeDocumentMoniker": "FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.Designer.cs",
+              "ToolTip": "C:\\Repositorios\\FazendaUrbana\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.Designer.cs",
+              "RelativeToolTip": "FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:38:24.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdicionarDadosProdu\u00E7\u00E3o.cs",
+              "DocumentMoniker": "C:\\Repositorios\\FazendaUrbana\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.cs",
+              "RelativeDocumentMoniker": "FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.cs",
+              "ToolTip": "C:\\Repositorios\\FazendaUrbana\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.cs",
+              "RelativeToolTip": "FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:37:21.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
