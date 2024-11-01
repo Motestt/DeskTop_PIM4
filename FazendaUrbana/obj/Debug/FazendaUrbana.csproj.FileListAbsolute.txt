@@ -51,5 +51,30 @@ C:\Repositorios\FazendaUrbana\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana
 C:\Repositorios\FazendaUrbana\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaU.84A0BD7D.Up2Date
 C:\Repositorios\FazendaUrbana\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.exe
 C:\Repositorios\FazendaUrbana\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.pdb
+<<<<<<< HEAD
 C:\Repositorios\FazendaUrbana\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Entities.Forms.AdicionarDadosProdução.resources
 C:\Repositorios\FazendaUrbana\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Entities.Forms.AdicionarRelatoriocs.resources
+=======
+C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\bin\Debug\FazendaUrbana.exe.config
+C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\bin\Debug\FazendaUrbana.exe
+C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\bin\Debug\FazendaUrbana.pdb
+C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\bin\Debug\System.Data.SqlClient.dll
+C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\bin\Debug\System.Data.SqlClient.xml
+C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.csproj.AssemblyReference.cache
+C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Entities.Forms.AdicionarDadosProdução.resources
+C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Entities.Forms.AdicionarRelatoriocs.resources
+C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Entities.Forms.CadastrarClientes.resources
+C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Entities.Forms.CadastrarFornecedor.resources
+C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Entities.Forms.CadastrarProduto.resources
+C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Entities.Forms.Estoque.resources
+C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Entities.Forms.LoginForms.resources
+C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Entities.Forms.MenuPrincipal.resources
+C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Entities.Forms.RegistrarLogin.resources
+C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Form1.resources
+C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Properties.Resources.resources
+C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.csproj.GenerateResource.cache
+C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.csproj.CoreCompileInputs.cache
+C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaU.84A0BD7D.Up2Date
+C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.exe
+C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.pdb
+>>>>>>> 79c155dc0d1e121f965fbf5b4c48a23f182d47b3
