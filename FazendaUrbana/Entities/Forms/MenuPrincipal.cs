@@ -100,7 +100,42 @@ namespace FazendaUrbana.Entities.Forms
 
         private void adicionarDadosProduçãoToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            AdicionarDadosProdução adicionardadosprodução = new AdicionarDadosProdução();
+
+            adicionardadosprodução.ShowDialog();
+
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cadastrarClientesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CadastrarClientes cadastrarclientes = new CadastrarClientes();
             
+            cadastrarclientes.ShowDialog();
+        }
+
+        private void relatoriosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AdicionarRelatoriocs adicionarrelatorio = new AdicionarRelatoriocs();
+
+            adicionarrelatorio.ShowDialog();
+
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click_1(object sender, EventArgs e)
+        {
+
         }
     }
 }

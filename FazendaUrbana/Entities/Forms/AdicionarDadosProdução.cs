@@ -15,6 +15,7 @@ namespace FazendaUrbana.Entities.Forms
         public AdicionarDadosProdução()
         {
             InitializeComponent();
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -28,6 +29,26 @@ namespace FazendaUrbana.Entities.Forms
         }
 
         private void AdicionarDadosProdução_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
         {
 
         }
