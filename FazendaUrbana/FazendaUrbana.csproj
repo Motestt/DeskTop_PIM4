@@ -109,12 +109,22 @@
     <Compile Include="Entities\Forms\RegistrarLogin.Designer.cs">
       <DependentUpon>RegistrarLogin.cs</DependentUpon>
     </Compile>
+    <Compile Include="Entities\Forms\TelaDeVendas2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entities\Forms\TelaDeVendas2.Designer.cs">
+      <DependentUpon>TelaDeVendas2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Entities\Objetos\Cargo.cs" />
     <Compile Include="Entities\Objetos\Categoria.cs" />
+    <Compile Include="Entities\Objetos\Cliente.cs" />
     <Compile Include="Entities\Objetos\ConnectionDB.cs" />
     <Compile Include="Entities\Objetos\Funcionario.cs" />
     <Compile Include="Entities\Objetos\Identidade.cs" />
+    <Compile Include="Entities\Objetos\Pagamento.cs" />
+    <Compile Include="Entities\Objetos\Producao.cs" />
     <Compile Include="Entities\Objetos\Produto.cs" />
+    <Compile Include="Entities\Objetos\Relatorios.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -149,6 +159,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Entities\Forms\RegistrarLogin.resx">
       <DependentUpon>RegistrarLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Entities\Forms\TelaDeVendas2.resx">
+      <DependentUpon>TelaDeVendas2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

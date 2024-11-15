@@ -137,5 +137,11 @@ namespace FazendaUrbana.Entities.Forms
         {
 
         }
+
+        private void carrinhoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            TelaDeVendas2 telaDeVendas2 = new TelaDeVendas2();
+            telaDeVendas2.ShowDialog();
+        }
     }
 }

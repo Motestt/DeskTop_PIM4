@@ -31,6 +31,14 @@ namespace FazendaUrbana.Entities.Objetos
             this.quantidade_prod = quantidade_prod;
         }
 
+        public Produto(int id_produto, string nome_produto, double valor_produto, int quantidade_prod)
+        {
+            this.id_produto = id_produto;
+            this.nome_produto = nome_produto;
+            this.valor_produto = valor_produto;
+            this.quantidade_prod = quantidade_prod;
+        }
+
         public void VerProdutos(ComboBox comboBox)
         {
             comboBox.Items.Clear();
@@ -151,6 +159,44 @@ namespace FazendaUrbana.Entities.Objetos
 
             }
 
+        }
+
+        public static void VerProdutos_2(ComboBox comboBox)
+        {
+            comboBox.Items.Clear();
+
+            using (SqlConnection connection = ConnectionDB.OpenConnection())
+            {
+                try
+                {
+                    string query = "select cd_Produto, nm_Produto, vl_Produto, qt_Produto from tb_Produto";
+
+                    using (SqlCommand command = new SqlCommand(query, connection))
+                    {
+                        using (SqlDataReader reader = command.ExecuteReader())
+                        {
+                            while (reader.Read())
+                            {
+                                // Acessando os dados corretamente
+                                int id_produto = Convert.ToInt32(reader.GetValue(0));
+                                string nome = reader.GetString(1);
+                                double valor = Convert.ToDouble(reader.GetValue(2));
+                                int quantidade = Convert.ToInt32(reader.GetValue(3));
+                                
+                                // Crie a categoria sem um Id real
+
+                                Produto produto = new Produto(id_produto, nome, valor, quantidade);
+                                comboBox.Items.Add(produto);
+
+                            }
+                        }
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Erro ao carregar categorias: " + ex.Message);
+                }
+            }
         }
 
     }

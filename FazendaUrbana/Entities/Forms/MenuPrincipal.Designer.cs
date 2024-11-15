@@ -46,6 +46,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.carrinhoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -66,7 +67,8 @@
             this.menuStrip1.LayoutStyle = System.Windows.Forms.ToolStripLayoutStyle.HorizontalStackWithOverflow;
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1067, 50);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
+            this.menuStrip1.Size = new System.Drawing.Size(800, 41);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -80,7 +82,7 @@
             this.opçõesToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.opçõesToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.opçõesToolStripMenuItem.Name = "opçõesToolStripMenuItem";
-            this.opçõesToolStripMenuItem.Size = new System.Drawing.Size(99, 46);
+            this.opçõesToolStripMenuItem.Size = new System.Drawing.Size(81, 37);
             this.opçõesToolStripMenuItem.Text = "Estoque";
             this.opçõesToolStripMenuItem.Click += new System.EventHandler(this.opçõesToolStripMenuItem_Click);
             // 
@@ -89,7 +91,7 @@
             this.estoqueToolStripMenuItem.BackColor = System.Drawing.Color.DarkOliveGreen;
             this.estoqueToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.estoqueToolStripMenuItem.Name = "estoqueToolStripMenuItem";
-            this.estoqueToolStripMenuItem.Size = new System.Drawing.Size(271, 32);
+            this.estoqueToolStripMenuItem.Size = new System.Drawing.Size(220, 26);
             this.estoqueToolStripMenuItem.Text = "Cadastrar Produtos";
             this.estoqueToolStripMenuItem.Click += new System.EventHandler(this.estoqueToolStripMenuItem_Click);
             // 
@@ -101,7 +103,7 @@
             this.fornecedoresToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
             this.fornecedoresToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.fornecedoresToolStripMenuItem.Name = "fornecedoresToolStripMenuItem";
-            this.fornecedoresToolStripMenuItem.Size = new System.Drawing.Size(149, 46);
+            this.fornecedoresToolStripMenuItem.Size = new System.Drawing.Size(123, 37);
             this.fornecedoresToolStripMenuItem.Text = "Fornecedores";
             this.fornecedoresToolStripMenuItem.Click += new System.EventHandler(this.fornecedoresToolStripMenuItem_Click);
             // 
@@ -110,7 +112,7 @@
             this.cadastrarFornecedoresToolStripMenuItem.BackColor = System.Drawing.Color.DarkOliveGreen;
             this.cadastrarFornecedoresToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.cadastrarFornecedoresToolStripMenuItem.Name = "cadastrarFornecedoresToolStripMenuItem";
-            this.cadastrarFornecedoresToolStripMenuItem.Size = new System.Drawing.Size(311, 32);
+            this.cadastrarFornecedoresToolStripMenuItem.Size = new System.Drawing.Size(254, 26);
             this.cadastrarFornecedoresToolStripMenuItem.Text = "Cadastrar Fornecedores";
             this.cadastrarFornecedoresToolStripMenuItem.Click += new System.EventHandler(this.cadastrarFornecedoresToolStripMenuItem_Click);
             // 
@@ -122,7 +124,7 @@
             this.clientesToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
             this.clientesToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.clientesToolStripMenuItem.Name = "clientesToolStripMenuItem";
-            this.clientesToolStripMenuItem.Size = new System.Drawing.Size(98, 46);
+            this.clientesToolStripMenuItem.Size = new System.Drawing.Size(80, 37);
             this.clientesToolStripMenuItem.Text = "Clientes";
             this.clientesToolStripMenuItem.Click += new System.EventHandler(this.clientesToolStripMenuItem_Click);
             // 
@@ -131,17 +133,19 @@
             this.cadastrarClientesToolStripMenuItem.BackColor = System.Drawing.Color.DarkOliveGreen;
             this.cadastrarClientesToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.cadastrarClientesToolStripMenuItem.Name = "cadastrarClientesToolStripMenuItem";
-            this.cadastrarClientesToolStripMenuItem.Size = new System.Drawing.Size(257, 32);
+            this.cadastrarClientesToolStripMenuItem.Size = new System.Drawing.Size(209, 26);
             this.cadastrarClientesToolStripMenuItem.Text = "Cadastrar clientes";
             this.cadastrarClientesToolStripMenuItem.Click += new System.EventHandler(this.cadastrarClientesToolStripMenuItem_Click);
             // 
             // vendasToolStripMenuItem
             // 
             this.vendasToolStripMenuItem.BackColor = System.Drawing.Color.Black;
+            this.vendasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.carrinhoToolStripMenuItem});
             this.vendasToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
             this.vendasToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.vendasToolStripMenuItem.Name = "vendasToolStripMenuItem";
-            this.vendasToolStripMenuItem.Size = new System.Drawing.Size(92, 46);
+            this.vendasToolStripMenuItem.Size = new System.Drawing.Size(74, 37);
             this.vendasToolStripMenuItem.Text = "Vendas";
             this.vendasToolStripMenuItem.Click += new System.EventHandler(this.vendasToolStripMenuItem_Click);
             // 
@@ -154,7 +158,7 @@
             this.produçãoToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
             this.produçãoToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.produçãoToolStripMenuItem.Name = "produçãoToolStripMenuItem";
-            this.produçãoToolStripMenuItem.Size = new System.Drawing.Size(112, 46);
+            this.produçãoToolStripMenuItem.Size = new System.Drawing.Size(92, 37);
             this.produçãoToolStripMenuItem.Text = "Produção";
             // 
             // adicionarDadosProduçãoToolStripMenuItem
@@ -162,7 +166,7 @@
             this.adicionarDadosProduçãoToolStripMenuItem.BackColor = System.Drawing.Color.DarkOliveGreen;
             this.adicionarDadosProduçãoToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.adicionarDadosProduçãoToolStripMenuItem.Name = "adicionarDadosProduçãoToolStripMenuItem";
-            this.adicionarDadosProduçãoToolStripMenuItem.Size = new System.Drawing.Size(364, 32);
+            this.adicionarDadosProduçãoToolStripMenuItem.Size = new System.Drawing.Size(295, 26);
             this.adicionarDadosProduçãoToolStripMenuItem.Text = "Adicionar dados da Produção";
             this.adicionarDadosProduçãoToolStripMenuItem.Click += new System.EventHandler(this.adicionarDadosProduçãoToolStripMenuItem_Click);
             // 
@@ -175,7 +179,7 @@
             this.adiministrativoToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
             this.adiministrativoToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.adiministrativoToolStripMenuItem.Name = "adiministrativoToolStripMenuItem";
-            this.adiministrativoToolStripMenuItem.Size = new System.Drawing.Size(158, 46);
+            this.adiministrativoToolStripMenuItem.Size = new System.Drawing.Size(129, 37);
             this.adiministrativoToolStripMenuItem.Text = "Administrativo";
             this.adiministrativoToolStripMenuItem.Click += new System.EventHandler(this.adiministrativoToolStripMenuItem_Click);
             // 
@@ -184,7 +188,7 @@
             this.cadastrarFuncionariosToolStripMenuItem.BackColor = System.Drawing.Color.DarkOliveGreen;
             this.cadastrarFuncionariosToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.cadastrarFuncionariosToolStripMenuItem.Name = "cadastrarFuncionariosToolStripMenuItem";
-            this.cadastrarFuncionariosToolStripMenuItem.Size = new System.Drawing.Size(303, 32);
+            this.cadastrarFuncionariosToolStripMenuItem.Size = new System.Drawing.Size(245, 26);
             this.cadastrarFuncionariosToolStripMenuItem.Text = "Cadastrar Funcionarios";
             // 
             // relatoriosToolStripMenuItem
@@ -192,7 +196,7 @@
             this.relatoriosToolStripMenuItem.BackColor = System.Drawing.Color.DarkOliveGreen;
             this.relatoriosToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.relatoriosToolStripMenuItem.Name = "relatoriosToolStripMenuItem";
-            this.relatoriosToolStripMenuItem.Size = new System.Drawing.Size(303, 32);
+            this.relatoriosToolStripMenuItem.Size = new System.Drawing.Size(245, 26);
             this.relatoriosToolStripMenuItem.Text = "Relatorios";
             this.relatoriosToolStripMenuItem.Click += new System.EventHandler(this.relatoriosToolStripMenuItem_Click);
             // 
@@ -203,12 +207,11 @@
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
             this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(939, 497);
-            this.button1.Margin = new System.Windows.Forms.Padding(4);
+            this.button1.Location = new System.Drawing.Point(679, 404);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(83, 36);
+            this.button1.Size = new System.Drawing.Size(87, 29);
             this.button1.TabIndex = 2;
-            this.button1.Text = "Sair";
+            this.button1.Text = "Logout";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -218,10 +221,9 @@
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(16, 511);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(12, 415);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(63, 28);
+            this.label1.Size = new System.Drawing.Size(51, 21);
             this.label1.TabIndex = 3;
             this.label1.Text = "label1";
             // 
@@ -231,9 +233,10 @@
             this.label2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label2.Font = new System.Drawing.Font("Segoe UI Semibold", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(3, 50);
+            this.label2.Location = new System.Drawing.Point(2, 41);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(738, 271);
+            this.label2.Size = new System.Drawing.Size(554, 220);
             this.label2.TabIndex = 4;
             this.label2.Text = "Seja Bem vindo";
             this.label2.Click += new System.EventHandler(this.label2_Click);
@@ -244,20 +247,28 @@
             this.label3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label3.Font = new System.Drawing.Font("Segoe UI Semibold", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(3, 156);
+            this.label3.Location = new System.Drawing.Point(2, 127);
+            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(738, 258);
+            this.label3.Size = new System.Drawing.Size(554, 210);
             this.label3.TabIndex = 5;
             this.label3.Text = "a Fazenda Barbosa";
             this.label3.Click += new System.EventHandler(this.label3_Click_1);
             // 
+            // carrinhoToolStripMenuItem
+            // 
+            this.carrinhoToolStripMenuItem.Name = "carrinhoToolStripMenuItem";
+            this.carrinhoToolStripMenuItem.Size = new System.Drawing.Size(180, 26);
+            this.carrinhoToolStripMenuItem.Text = "Carrinho";
+            this.carrinhoToolStripMenuItem.Click += new System.EventHandler(this.carrinhoToolStripMenuItem_Click);
+            // 
             // MenuPrincipal
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Silver;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(1067, 554);
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
@@ -265,7 +276,6 @@
             this.Controls.Add(this.label2);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "MenuPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MenuPrincipal";
@@ -295,5 +305,6 @@
         private System.Windows.Forms.ToolStripMenuItem adicionarDadosProduçãoToolStripMenuItem;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.ToolStripMenuItem carrinhoToolStripMenuItem;
     }
 }

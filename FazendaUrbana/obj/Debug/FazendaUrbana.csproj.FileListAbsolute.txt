@@ -77,7 +77,6 @@ C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.csproj.CoreComp
 C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaU.84A0BD7D.Up2Date
 C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.exe
 C:\C#\Fazenda\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.pdb
-<<<<<<< HEAD
 C:\Repositorios\FazendaUrbana\DeskTop_PIM4\DeskTop_PIM4\FazendaUrbana\bin\Debug\FazendaUrbana.exe.config
 C:\Repositorios\FazendaUrbana\DeskTop_PIM4\DeskTop_PIM4\FazendaUrbana\bin\Debug\FazendaUrbana.exe
 C:\Repositorios\FazendaUrbana\DeskTop_PIM4\DeskTop_PIM4\FazendaUrbana\bin\Debug\FazendaUrbana.pdb
@@ -100,6 +99,28 @@ C:\Repositorios\FazendaUrbana\DeskTop_PIM4\DeskTop_PIM4\FazendaUrbana\obj\Debug\
 C:\Repositorios\FazendaUrbana\DeskTop_PIM4\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaU.84A0BD7D.Up2Date
 C:\Repositorios\FazendaUrbana\DeskTop_PIM4\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.exe
 C:\Repositorios\FazendaUrbana\DeskTop_PIM4\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.pdb
-=======
 >>>>>>> 79c155dc0d1e121f965fbf5b4c48a23f182d47b3
 >>>>>>> 9995dc7b18bcf4174715ce7c97266d51b564c212
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\bin\Debug\FazendaUrbana.exe.config
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\bin\Debug\FazendaUrbana.exe
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\bin\Debug\FazendaUrbana.pdb
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\bin\Debug\System.Data.SqlClient.dll
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\bin\Debug\System.Data.SqlClient.xml
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.csproj.AssemblyReference.cache
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Entities.Forms.AdicionarDadosProdução.resources
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Entities.Forms.AdicionarRelatoriocs.resources
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Entities.Forms.CadastrarClientes.resources
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Entities.Forms.CadastrarFornecedor.resources
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Entities.Forms.CadastrarProduto.resources
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Entities.Forms.Estoque.resources
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Entities.Forms.LoginForms.resources
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Entities.Forms.MenuPrincipal.resources
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Entities.Forms.RegistrarLogin.resources
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Form1.resources
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Properties.Resources.resources
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.csproj.GenerateResource.cache
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.csproj.CoreCompileInputs.cache
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaU.84A0BD7D.Up2Date
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.exe
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.pdb
+C:\Repositorios\C#\FazedaUrbana(15.11)\DeskTop_PIM4\FazendaUrbana\obj\Debug\FazendaUrbana.Entities.Forms.TelaDeVendas2.resources
