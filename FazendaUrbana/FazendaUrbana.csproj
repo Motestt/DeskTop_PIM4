@@ -119,6 +119,7 @@
     <Compile Include="Entities\Objetos\Categoria.cs" />
     <Compile Include="Entities\Objetos\Cliente.cs" />
     <Compile Include="Entities\Objetos\ConnectionDB.cs" />
+    <Compile Include="Entities\Objetos\Fornecedor.cs" />
     <Compile Include="Entities\Objetos\Funcionario.cs" />
     <Compile Include="Entities\Objetos\Identidade.cs" />
     <Compile Include="Entities\Objetos\Pagamento.cs" />
