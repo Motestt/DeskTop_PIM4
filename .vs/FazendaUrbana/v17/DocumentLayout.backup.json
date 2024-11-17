@@ -1,44 +1,177 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Repositorios\\FazendaUrbana1611\\DeskTop_PIM4\\",
+  "WorkspaceRootPath": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|c:\\repositorios\\fazendaurbana1611\\desktop_pim4\\fazendaurbana\\entities\\forms\\adicionardadosprodu\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|c:\\repositorios\\c#\\fazendaurbana(17.11)\\desktop_pim4\\fazendaurbana\\entities\\objetos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|solutionrelative:fazendaurbana\\entities\\objetos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|c:\\repositorios\\c#\\fazendaurbana(17.11)\\desktop_pim4\\fazendaurbana\\entities\\objetos\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|solutionrelative:fazendaurbana\\entities\\objetos\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|c:\\repositorios\\c#\\fazendaurbana(17.11)\\desktop_pim4\\fazendaurbana\\entities\\forms\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|solutionrelative:fazendaurbana\\entities\\forms\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|c:\\repositorios\\c#\\fazendaurbana(17.11)\\desktop_pim4\\fazendaurbana\\entities\\forms\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|solutionrelative:fazendaurbana\\entities\\forms\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|c:\\repositorios\\c#\\fazendaurbana(17.11)\\desktop_pim4\\fazendaurbana\\entities\\forms\\cadastrarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|solutionrelative:fazendaurbana\\entities\\forms\\cadastrarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|c:\\repositorios\\c#\\fazendaurbana(17.11)\\desktop_pim4\\fazendaurbana\\entities\\forms\\cadastrarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|solutionrelative:fazendaurbana\\entities\\forms\\cadastrarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|c:\\repositorios\\c#\\fazendaurbana(17.11)\\desktop_pim4\\fazendaurbana\\entities\\forms\\teladevendas2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|solutionrelative:fazendaurbana\\entities\\forms\\teladevendas2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\fazendaurbana\\entities\\forms\\teladevendas2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|solutionrelative:fazendaurbana\\entities\\forms\\teladevendas2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|c:\\repositorios\\c#\\fazendaurbana(17.11)\\desktop_pim4\\fazendaurbana\\entities\\forms\\clienteforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|solutionrelative:fazendaurbana\\entities\\forms\\clienteforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|c:\\repositorios\\c#\\fazendaurbana(17.11)\\desktop_pim4\\fazendaurbana\\entities\\forms\\adicionardadosprodu\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|solutionrelative:fazendaurbana\\entities\\forms\\adicionardadosprodu\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|c:\\repositorios\\fazendaurbana1611\\desktop_pim4\\fazendaurbana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\fazendaurbana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|solutionrelative:fazendaurbana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|c:\\repositorios\\fazendaurbana1611\\desktop_pim4\\fazendaurbana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\fazendaurbana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|solutionrelative:fazendaurbana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|c:\\repositorios\\fazendaurbana1611\\desktop_pim4\\fazendaurbana\\entities\\forms\\adicionardadosprodu\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\fazendaurbana\\entities\\forms\\adicionardadosprodu\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|solutionrelative:fazendaurbana\\entities\\forms\\adicionardadosprodu\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|C:\\Repositorios\\FazendaUrbana1611\\DeskTop_PIM4\\fazendaurbana\\entities\\forms\\teladevendas2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AD6343C0-4829-40E3-96B7-C0454CF9B80D}|FazendaUrbana\\FazendaUrbana.csproj|solutionrelative:fazendaurbana\\entities\\forms\\teladevendas2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 244,
       "DocumentGroups": [
         {
-          "DockedHeight": 281,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Objetos\\Produto.cs",
+              "RelativeDocumentMoniker": "FazendaUrbana\\Entities\\Objetos\\Produto.cs",
+              "ToolTip": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Objetos\\Produto.cs",
+              "RelativeToolTip": "FazendaUrbana\\Entities\\Objetos\\Produto.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAkwHQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:05:03.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\Estoque.cs",
+              "RelativeDocumentMoniker": "FazendaUrbana\\Entities\\Forms\\Estoque.cs",
+              "ToolTip": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\Estoque.cs",
+              "RelativeToolTip": "FazendaUrbana\\Entities\\Forms\\Estoque.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAvwFAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:04:58.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TelaDeVendas2.cs",
+              "DocumentMoniker": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\TelaDeVendas2.cs",
+              "RelativeDocumentMoniker": "FazendaUrbana\\Entities\\Forms\\TelaDeVendas2.cs",
+              "ToolTip": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\TelaDeVendas2.cs",
+              "RelativeToolTip": "FazendaUrbana\\Entities\\Forms\\TelaDeVendas2.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAewBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:59:46.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Estoque.cs [Design]",
+              "DocumentMoniker": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\Estoque.cs",
+              "RelativeDocumentMoniker": "FazendaUrbana\\Entities\\Forms\\Estoque.cs",
+              "ToolTip": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\Estoque.cs [Design]",
+              "RelativeToolTip": "FazendaUrbana\\Entities\\Forms\\Estoque.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:59:40.727Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CadastrarClientes.cs",
+              "DocumentMoniker": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\CadastrarClientes.cs",
+              "RelativeDocumentMoniker": "FazendaUrbana\\Entities\\Forms\\CadastrarClientes.cs",
+              "ToolTip": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\CadastrarClientes.cs",
+              "RelativeToolTip": "FazendaUrbana\\Entities\\Forms\\CadastrarClientes.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAmwGcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:44:02.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteForms.cs [Design]",
+              "DocumentMoniker": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\ClienteForms.cs",
+              "RelativeDocumentMoniker": "FazendaUrbana\\Entities\\Forms\\ClienteForms.cs",
+              "ToolTip": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\ClienteForms.cs [Design]",
+              "RelativeToolTip": "FazendaUrbana\\Entities\\Forms\\ClienteForms.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:40:08.509Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Objetos\\Cliente.cs",
+              "RelativeDocumentMoniker": "FazendaUrbana\\Entities\\Objetos\\Cliente.cs",
+              "ToolTip": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Objetos\\Cliente.cs",
+              "RelativeToolTip": "FazendaUrbana\\Entities\\Objetos\\Cliente.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAswKcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:25:58.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CadastrarClientes.cs [Design]",
+              "DocumentMoniker": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\CadastrarClientes.cs",
+              "RelativeDocumentMoniker": "FazendaUrbana\\Entities\\Forms\\CadastrarClientes.cs",
+              "ToolTip": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\CadastrarClientes.cs [Design]",
+              "RelativeToolTip": "FazendaUrbana\\Entities\\Forms\\CadastrarClientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:25:41.255Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "AdicionarDadosProdu\u00E7\u00E3o.cs",
-              "DocumentMoniker": "C:\\Repositorios\\FazendaUrbana1611\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.cs",
+              "DocumentMoniker": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.cs",
               "RelativeDocumentMoniker": "FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.cs",
-              "ToolTip": "C:\\Repositorios\\FazendaUrbana1611\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.cs",
+              "ToolTip": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.cs",
               "RelativeToolTip": "FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAEwDkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -47,11 +180,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "AdicionarDadosProdu\u00E7\u00E3o.cs [Design]",
-              "DocumentMoniker": "C:\\Repositorios\\FazendaUrbana1611\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.cs",
+              "DocumentMoniker": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.cs",
               "RelativeDocumentMoniker": "FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.cs",
-              "ToolTip": "C:\\Repositorios\\FazendaUrbana1611\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.cs [Design]",
+              "ToolTip": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.cs [Design]",
               "RelativeToolTip": "FazendaUrbana\\Entities\\Forms\\AdicionarDadosProdu\u00E7\u00E3o.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T02:22:25.446Z",
@@ -59,36 +192,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Repositorios\\FazendaUrbana1611\\DeskTop_PIM4\\FazendaUrbana\\Form1.cs",
+              "DocumentMoniker": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Form1.cs",
               "RelativeDocumentMoniker": "FazendaUrbana\\Form1.cs",
-              "ToolTip": "C:\\Repositorios\\FazendaUrbana1611\\DeskTop_PIM4\\FazendaUrbana\\Form1.cs",
+              "ToolTip": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Form1.cs",
               "RelativeToolTip": "FazendaUrbana\\Form1.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAEwE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T02:17:21.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T02:17:21.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Repositorios\\FazendaUrbana1611\\DeskTop_PIM4\\FazendaUrbana\\Form1.cs",
+              "DocumentMoniker": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Form1.cs",
               "RelativeDocumentMoniker": "FazendaUrbana\\Form1.cs",
               "ToolTip": "C:\\Repositorios\\FazendaUrbana1611\\DeskTop_PIM4\\FazendaUrbana\\Form1.cs [Design]",
-              "RelativeToolTip": "FazendaUrbana\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\FazendaUrbana1611\\DeskTop_PIM4\\FazendaUrbana\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T02:10:27.88Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-17T02:10:27.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "TelaDeVendas2.cs [Design]",
-              "DocumentMoniker": "C:\\Repositorios\\FazendaUrbana1611\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\TelaDeVendas2.cs",
+              "DocumentMoniker": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\TelaDeVendas2.cs",
               "RelativeDocumentMoniker": "FazendaUrbana\\Entities\\Forms\\TelaDeVendas2.cs",
-              "ToolTip": "C:\\Repositorios\\FazendaUrbana1611\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\TelaDeVendas2.cs [Design]",
+              "ToolTip": "C:\\Repositorios\\C#\\FazendaUrbana(17.11)\\DeskTop_PIM4\\FazendaUrbana\\Entities\\Forms\\TelaDeVendas2.cs [Design]",
               "RelativeToolTip": "FazendaUrbana\\Entities\\Forms\\TelaDeVendas2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T14:09:55.083Z",

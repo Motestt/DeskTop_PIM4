@@ -50,48 +50,43 @@
             // 
             this.comboBox1.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(739, 166);
-            this.comboBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.comboBox1.Location = new System.Drawing.Point(554, 135);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(200, 36);
+            this.comboBox1.Size = new System.Drawing.Size(151, 29);
             this.comboBox1.TabIndex = 0;
             // 
             // comboBox2
             // 
             this.comboBox2.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
             this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(259, 166);
-            this.comboBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.comboBox2.Location = new System.Drawing.Point(194, 135);
             this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(200, 36);
+            this.comboBox2.Size = new System.Drawing.Size(151, 29);
             this.comboBox2.TabIndex = 1;
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(259, 229);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox1.Location = new System.Drawing.Point(194, 186);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(200, 39);
+            this.textBox1.Size = new System.Drawing.Size(151, 32);
             this.textBox1.TabIndex = 2;
             // 
             // comboBox3
             // 
             this.comboBox3.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
             this.comboBox3.FormattingEnabled = true;
-            this.comboBox3.Location = new System.Drawing.Point(739, 229);
-            this.comboBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.comboBox3.Location = new System.Drawing.Point(554, 186);
             this.comboBox3.Name = "comboBox3";
-            this.comboBox3.Size = new System.Drawing.Size(200, 36);
+            this.comboBox3.Size = new System.Drawing.Size(151, 29);
             this.comboBox3.TabIndex = 3;
             // 
             // label1
             // 
             this.label1.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
-            this.label1.Location = new System.Drawing.Point(575, 166);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(431, 135);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(131, 39);
+            this.label1.Size = new System.Drawing.Size(98, 32);
             this.label1.TabIndex = 4;
             this.label1.Text = "Cliente";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -99,10 +94,9 @@
             // label2
             // 
             this.label2.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
-            this.label2.Location = new System.Drawing.Point(98, 167);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Location = new System.Drawing.Point(74, 136);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(131, 39);
+            this.label2.Size = new System.Drawing.Size(98, 32);
             this.label2.TabIndex = 5;
             this.label2.Text = "Produto";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -111,10 +105,9 @@
             // label3
             // 
             this.label3.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
-            this.label3.Location = new System.Drawing.Point(98, 229);
-            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Location = new System.Drawing.Point(74, 186);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(131, 39);
+            this.label3.Size = new System.Drawing.Size(98, 32);
             this.label3.TabIndex = 6;
             this.label3.Text = "Quantidade";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -123,10 +116,9 @@
             // 
             this.label4.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label4.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
-            this.label4.Location = new System.Drawing.Point(575, 232);
-            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label4.Location = new System.Drawing.Point(431, 188);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(131, 39);
+            this.label4.Size = new System.Drawing.Size(98, 32);
             this.label4.TabIndex = 7;
             this.label4.Text = "Pagamento";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -136,10 +128,9 @@
             // 
             this.label5.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.label5.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
-            this.label5.Location = new System.Drawing.Point(259, 352);
-            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label5.Location = new System.Drawing.Point(195, 236);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(200, 39);
+            this.label5.Size = new System.Drawing.Size(150, 32);
             this.label5.TabIndex = 8;
             this.label5.Text = "000";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -147,10 +138,9 @@
             // label6
             // 
             this.label6.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
-            this.label6.Location = new System.Drawing.Point(98, 290);
-            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label6.Location = new System.Drawing.Point(74, 236);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(131, 39);
+            this.label6.Size = new System.Drawing.Size(98, 32);
             this.label6.TabIndex = 9;
             this.label6.Text = "Quantidade disponivel:";
             this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -162,10 +152,9 @@
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
             this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(575, 290);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Location = new System.Drawing.Point(431, 236);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(364, 39);
+            this.button1.Size = new System.Drawing.Size(273, 32);
             this.button1.TabIndex = 10;
             this.button1.Text = "Comprar";
             this.button1.UseVisualStyleBackColor = false;
@@ -174,10 +163,9 @@
             // label7
             // 
             this.label7.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
-            this.label7.Location = new System.Drawing.Point(98, 352);
-            this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label7.Location = new System.Drawing.Point(74, 286);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(131, 39);
+            this.label7.Size = new System.Drawing.Size(98, 32);
             this.label7.TabIndex = 11;
             this.label7.Text = "Preço:";
             this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -186,10 +174,9 @@
             // 
             this.label8.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.label8.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
-            this.label8.Location = new System.Drawing.Point(259, 290);
-            this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label8.Location = new System.Drawing.Point(195, 286);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(200, 39);
+            this.label8.Size = new System.Drawing.Size(150, 32);
             this.label8.TabIndex = 12;
             this.label8.Text = "0.0";
             this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -197,10 +184,9 @@
             // label9
             // 
             this.label9.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
-            this.label9.Location = new System.Drawing.Point(429, 50);
-            this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label9.Location = new System.Drawing.Point(322, 41);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(131, 39);
+            this.label9.Size = new System.Drawing.Size(98, 32);
             this.label9.TabIndex = 13;
             this.label9.Text = "Compras";
             this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -212,10 +198,9 @@
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold);
             this.button2.ForeColor = System.Drawing.Color.White;
-            this.button2.Location = new System.Drawing.Point(57, 473);
-            this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button2.Location = new System.Drawing.Point(43, 384);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(140, 40);
+            this.button2.Size = new System.Drawing.Size(105, 32);
             this.button2.TabIndex = 14;
             this.button2.Text = "Voltar";
             this.button2.UseVisualStyleBackColor = false;
@@ -223,10 +208,10 @@
             // 
             // TelaDeVendas2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(1067, 554);
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.label8);
@@ -243,7 +228,6 @@
             this.Controls.Add(this.comboBox2);
             this.Controls.Add(this.comboBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "TelaDeVendas2";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "TelaDeVendas2";
